@@ -2,18 +2,21 @@
   {
     "title": "Big Buck Bunny",
     "category": "Animation",
+    "description": "ကြီးမားပြီး ဖော်ရွေသော ယုန်မွှေးတိုလေးတစ်ကောင်နှင့် တောတွင်းတိရစ္ဆာန်လေးများအကြောင်း ဟာသနှောရိုက်ကူးထားသော ကာတွန်းဇာတ်ကားကောင်း တစ်ကားဖြစ်သည်။",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg",
     "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
     "title": "Elephant Dream",
     "category": "Sci-Fi",
+    "description": "ဆန်းကြယ်သော စိတ်ကူးယဉ်ကမ္ဘာတစ်ခုအတွင်း စူးစမ်းရှာဖွေမှုများ ပြုလုပ်ကြသည့် သိပ္ပံဇာတ်လမ်းကောင်း တစ်ပုဒ်ဖြစ်သည်။",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Elephants_Dream_poster.jpg",
     "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
   },
   {
     "title": "For Bigger Blazes",
     "category": "Action",
+    "description": "အမြန်နှုန်းနှင့် စိတ်လှုပ်ရှားဖွယ်ရာ အက်ရှင်မြင်ကွင်းများ ပါဝင်သည့် ဗီဒီယိုဇာတ်လမ်းတို တစ်ခုဖြစ်သည်။",
     "image_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg",
     "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
   }
