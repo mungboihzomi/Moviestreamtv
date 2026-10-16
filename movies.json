@@ -1,14 +1,20 @@
 [
   {
     "title": "Big Buck Bunny",
+    "category": "Animation",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg",
     "video_url": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
     "title": "Elephant Dream",
+    "category": "Sci-Fi",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Elephants_Dream_poster.jpg",
     "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
   },
   {
     "title": "For Bigger Blazes",
+    "category": "Action",
+    "image_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg",
     "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
   }
 ]
